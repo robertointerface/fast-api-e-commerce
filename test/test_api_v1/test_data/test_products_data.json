@@ -1,0 +1,45 @@
+[
+  {
+    "product_id": "0f2cdc39-c098-42d2-ba96-4b2388853d56",
+    "name": "Zelda tears of Kingdom",
+    "price": 50.95,
+    "available_count": 5,
+    "type": "Video Game"
+  },
+  {
+    "product_id": "e7c05308-7dea-444f-a10a-74f1e9f809e1",
+    "name": "Amazing Monitor",
+    "price": 500.00,
+    "available_count": 3,
+    "type": "Electronics"
+  },
+  {
+    "product_id": "6284f3a4-dc13-49c1-818c-6d6218082652",
+    "name": "Best book ever",
+    "price": 10.15,
+    "available_count": 8,
+    "type": "Books"
+  },
+  {
+    "product_id": "050eb2bc-b80a-48db-999f-def00c4f18b7",
+    "name": "Table",
+    "price": 30.95,
+    "available_count": 20,
+    "type": "Furniture"
+  },
+  {
+    "product_id": "41ec7b42-3d31-4b60-9df2-619ae290add4",
+    "name": "Plates set",
+    "price": 100.00,
+    "available_count": 1,
+    "type": "Electronics"
+  },
+  {
+    "product_id": "e30ce177-73cb-41fa-b016-0f03eedcaaa3",
+    "name": "Razer Laptop",
+    "price": 2349.59,
+    "available_count": 13,
+    "type": "Electronics"
+  }
+
+]
