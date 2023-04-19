@@ -6,5 +6,6 @@ app = FastAPI()
 
 app.include_router(api_router, prefix="/api/v1")
 
-# aws lambda handler
+
+# Uncomment the line below and you can have it on aws lambda
 #handler = Mangum(app)
